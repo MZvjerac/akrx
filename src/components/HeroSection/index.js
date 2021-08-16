@@ -24,7 +24,7 @@ const HeroSection = () => {
                 {/* <VideoBg autoPlay loop muted src={Video5} type='video/gif' />  */}
             </HeroBg>
             <HeroContent>
-                <HeroH1>Access To Aircraft Data <br/> Stored in Block Chain</HeroH1>
+                <HeroH1>Access To Aircraft Data </HeroH1>
                 <HeroP>
                     If you want to improve the maintenance of your aircraft,
                     or gain insight into real price of used parts we can offer
